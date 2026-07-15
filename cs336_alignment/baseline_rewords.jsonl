@@ -1,0 +1,9 @@
+{"tag": "OLMo-2-0425-1B_r1_zero_three_shot", "total_reward": 245.0, "total_format_reward": 1252.0, "avg_reward": 0.18574677786201668, "avg_format_reward": 0.9492039423805914}
+{"tag": "OLMo-2-0425-1B_r1_zero", "total_reward": 1.0, "total_format_reward": 819.0, "avg_reward": 0.000758150113722517, "avg_format_reward": 0.6209249431387415}
+{"tag": "Qwen3.5-0.8B-Base_r1_zero_three_shot", "total_reward": 447.0, "total_format_reward": 1161.0, "avg_reward": 0.3388931008339651, "avg_format_reward": 0.8802122820318423}
+{"tag": "Qwen2.5-1.5B_r1_zero_three_shot", "total_reward": 570.0, "total_format_reward": 1298.0, "avg_reward": 0.43214556482183475, "avg_format_reward": 0.9840788476118272}
+{"tag": "Qwen2.5-1.5B_question_only", "total_reward": 605.0, "total_format_reward": 1268.0, "avg_reward": 0.4586808188021228, "avg_format_reward": 0.9613343442001516}
+{"tag": "Qwen3.5-0.8B-Base_r1_zero", "total_reward": 34.0, "total_format_reward": 109.0, "avg_reward": 0.02577710386656558, "avg_format_reward": 0.08263836239575435}
+{"tag": "Qwen2.5-1.5B_r1_zero", "total_reward": 59.0, "total_format_reward": 308.0, "avg_reward": 0.04473085670962851, "avg_format_reward": 0.23351023502653526}
+{"tag": "Qwen3.5-0.8B-Base_question_only", "total_reward": 264.0, "total_format_reward": 948.0, "avg_reward": 0.2001516300227445, "avg_format_reward": 0.7187263078089462}
+{"tag": "OLMo-2-0425-1B_question_only", "total_reward": 4.0, "total_format_reward": 230.0, "avg_reward": 0.003032600454890068, "avg_format_reward": 0.17437452615617893}
